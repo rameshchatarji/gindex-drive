@@ -420,7 +420,7 @@ function markdown(el, data){
     }
 }
 if(search){
-    document.write('<script src="//cdn.jsdelivr.net/gh/rameshchatarji/goindex-drive@master/themes/material/cari.js"></script>');
+    document.write('<script src="//cdn.jsdelivr.net/gh/rameshchatarji/gindex-drive@master/themes/material/cari.js"></script>');
 }
 // Listen for fallback events
 window.onpopstate = function(){
